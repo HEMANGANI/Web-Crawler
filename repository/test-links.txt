@@ -1,0 +1,9 @@
+list of test URLs :
+
+https://www.walmart.com
+https://www.cnn.com
+https://www.wired.com
+https://forecast.weather.gov
+https://www.capitalone.com
+https://www.disneyplus.com
+https://www.netflix.com
